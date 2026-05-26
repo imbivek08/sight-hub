@@ -120,11 +120,11 @@ export function HomePage() {
             image: "https://sight-hub.example.com/images/frame-round.svg",
             address: {
               "@type": "PostalAddress",
-              streetAddress: "New Baneshwor",
+              streetAddress: "Madhyapur Thimi",
               addressLocality: "Kathmandu",
               addressCountry: "NP",
             },
-            telephone: "+977-9841000000",
+            telephone: "",
             openingHours: ["Su-Fr 09:00-18:00", "Sa 10:00-16:00"],
           }),
         }}

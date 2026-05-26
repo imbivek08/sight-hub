@@ -6,13 +6,13 @@ import { Clock3, Mail, MapPin, Phone, Send } from "lucide-react";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "Contact Sight Hub Eye Clinic",
+    title: "Contact Sight Hub Optical Shop",
     description:
-      "Contact Sight Hub Eye Clinic in Kathmandu for appointments, questions, directions, and support.",
+      "Contact Sight Hub Optical Shop in Madhyapur Thimi for appointments, questions, directions, and support.",
     openGraph: {
-      title: "Contact Sight Hub Eye Clinic",
+      title: "Contact Sight Hub Optical Shop",
       description:
-        "Contact Sight Hub Eye Clinic in Kathmandu for appointments, questions, directions, and support.",
+        "Contact Sight Hub Optical Shop in Kathmandu for appointments, questions, directions, and support.",
       type: "website",
     },
   };
@@ -51,7 +51,7 @@ export default function ContactPage() {
           <div className="max-w-3xl">
             <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary">Contact</p>
             <h1 className="mt-4 font-serif text-5xl leading-[1.05] tracking-tight text-foreground sm:text-6xl lg:text-[4.5rem]">
-              Talk to our clinic team in Kathmandu
+              Talk to our clinic team in Madhyapur Thimi
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-muted-foreground sm:text-xl">
               Ask about eye tests, glasses, pricing, or directions. We are ready to help you plan your visit.
@@ -77,7 +77,7 @@ export default function ContactPage() {
 
             <div className="overflow-hidden rounded-[2rem] border border-border bg-white shadow-sm">
               <iframe
-                title="Sight Hub Eye Clinic location in Kathmandu"
+                title="Sight Hub Optical SHop location in Kathmandu"
                 src="https://www.google.com/maps?q=Kathmandu,Nepal&output=embed"
                 loading="lazy"
                 className="h-[24rem] w-full border-0"
@@ -102,7 +102,7 @@ export default function ContactPage() {
               </h2>
             </div>
             <a
-              href="tel:+977-9841000000"
+              href="tel:+977-9766361624"
               className="inline-flex items-center justify-center gap-2 rounded-button bg-accent px-6 py-3 text-sm font-semibold text-accent-foreground transition hover:-translate-y-0.5"
             >
               <Send className="h-4 w-4" aria-hidden="true" />

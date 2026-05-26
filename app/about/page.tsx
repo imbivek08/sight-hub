@@ -4,11 +4,11 @@ import { Award, BadgeCheck, HeartHandshake } from "lucide-react";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "About Sight Hub Eye Clinic",
+    title: "About Sight Hub Optical Shop",
     description:
       "Meet the team, learn our story, and see the trust signals behind Sight Hub Eye Clinic in Kathmandu.",
     openGraph: {
-      title: "About Sight Hub Eye Clinic",
+      title: "About Sight Hub Optical Shop",
       description:
         "Meet the team, learn our story, and see the trust signals behind Sight Hub Eye Clinic in Kathmandu.",
       type: "website",
@@ -17,26 +17,21 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 const stats = [
-  { value: "2000+", label: "Patients Served" },
-  { value: "10+", label: "Years Experience" },
+  { value: "250+", label: "Patients Served" },
+  { value: "3+", label: "Years Experience" },
   { value: "500+", label: "Frame Styles" },
 ];
 
 const team = [
   {
-    name: "Dr. Prabin Shrestha",
-    role: "Lead Optometrist",
+    name: "Mr Bikash Gupta",
+    role: "Ophthalmic Assistant",
     description: "Focused on clear diagnostics, patient education, and comfortable treatment plans.",
   },
   {
-    name: "Dr. Asha Karki",
-    role: "Paediatric Vision Specialist",
+    name: "Mr Suman Kumar Prajapati",
+    role: "Ophthalmic Assistant",
     description: "Helps children and families with gentle, age-appropriate eye care and advice.",
-  },
-  {
-    name: "Sangita Maharjan",
-    role: "Frame & Lens Consultant",
-    description: "Guides customers toward frames that fit their prescription, budget, and style.",
   },
 ];
 
@@ -57,7 +52,7 @@ export default function AboutPage() {
               A clinic built around trust, comfort, and clear vision
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-muted-foreground sm:text-xl">
-              Sight Hub Eye Clinic serves Kathmandu with transparent pricing, friendly experts, and a curated frame selection for every age.
+              Sight Hub Optical Shop serves Kathmandu valley with transparent pricing, friendly experts, and a curated frame selection for every age.
             </p>
           </div>
         </div>

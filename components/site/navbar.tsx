@@ -51,7 +51,7 @@ export function Navbar() {
                 Sight Hub
               </span>
               <span className="font-serif text-xl font-semibold text-foreground">
-                Eye Clinic
+                Optical Shop
               </span>
             </span>
           </Link>
@@ -70,11 +70,11 @@ export function Navbar() {
 
           <div className="hidden items-center gap-3 lg:flex">
             <a
-              href="tel:+977-9841000000"
+              href="tel:+977-9766361624"
               className="inline-flex items-center gap-2 rounded-button border border-border bg-white px-4 py-2 text-sm font-medium text-foreground transition hover:border-primary hover:text-primary"
             >
               <Phone className="h-4 w-4" aria-hidden="true" />
-              +977-9841000000
+              +977-9766361624
             </a>
             <Link
               href="/eye-test"
@@ -112,11 +112,11 @@ export function Navbar() {
               </Link>
             ))}
             <a
-              href="tel:+977-9841000000"
+              href="tel:+977-9766361624"
               className="mt-2 inline-flex items-center justify-center gap-2 rounded-button bg-primary px-4 py-3 text-sm font-semibold text-primary-foreground"
             >
               <Phone className="h-4 w-4" aria-hidden="true" />
-              Call +977-9841000000
+              Call +977-9766361624
             </a>
           </nav>
         </div>

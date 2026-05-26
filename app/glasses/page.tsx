@@ -9,7 +9,7 @@ export async function generateMetadata(): Promise<Metadata> {
     description:
       "Browse affordable glasses and frames in Kathmandu with filters for men, women, kids, and sunglasses.",
     openGraph: {
-      title: "Affordable Glasses & Frames in Kathmandu | Sight Hub Eye Clinic",
+      title: "Affordable Glasses & Frames in Kathmandu | Sight Hub Optical Shop",
       description:
         "Browse affordable glasses and frames in Kathmandu with filters for men, women, kids, and sunglasses.",
       type: "website",
@@ -84,7 +84,7 @@ export default function GlassesPage() {
               Glasses & Frames
             </p>
             <h1 className="mt-4 font-serif text-5xl leading-[1.05] tracking-tight text-foreground sm:text-6xl lg:text-[4.5rem]">
-              Affordable Glasses & Frames in Kathmandu | Sight Hub Eye Clinic
+              Affordable Glasses & Frames in Kathmandu | Sight Hub Optical Shop
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-8 text-muted-foreground sm:text-xl">
               Explore styles for daily wear, kids, and sun protection, starting from NPR 999.

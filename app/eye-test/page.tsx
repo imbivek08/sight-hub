@@ -12,7 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
     description:
       "Book an affordable eye test in Kathmandu with transparent pricing, expert optometrists, and online appointment requests.",
     openGraph: {
-      title: "Affordable Eye Test in Kathmandu | Sight Hub Eye Clinic",
+      title: "Affordable Eye Test in Kathmandu | Sight Hub Optical Shop",
       description:
         "Book an affordable eye test in Kathmandu with transparent pricing, expert optometrists, and online appointment requests.",
       type: "website",
