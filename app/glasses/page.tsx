@@ -19,7 +19,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
 const frames = [
   {
-    image: "/images/frame-round.svg",
+    image: "/images/sunglasses-women.jpeg",
     alt: "Round titanium eyeglass frame in a warm neutral finish",
     name: "Aster Round",
     brand: "Sight Hub House Collection",

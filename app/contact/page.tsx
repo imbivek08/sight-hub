@@ -32,7 +32,7 @@ const contactDetails = [
   {
     icon: Mail,
     title: "Email",
-    text: "hello@sighthubclinic.com",
+    text: "sighthuboptical@gmail.com",
   },
   {
     icon: Clock3,
