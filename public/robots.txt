@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sight-hub.example.com
+
+# Sitemaps
+Sitemap: https://sight-hub.example.com/sitemap.xml
