@@ -14,7 +14,7 @@ export function EyeTestHero() {
             Eye Test
           </p>
           <h1 className="mt-4 font-serif text-5xl leading-[1.05] tracking-tight text-foreground sm:text-6xl lg:text-[4.5rem]">
-            Affordable Eye Test in Kathmandu | Sight Hub Eye Clinic
+            Affordable Eye Test in Kathmandu | Sight Hub Optical Shop
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-8 text-muted-foreground sm:text-xl">
             Book a thorough eye check with transparent pricing, friendly guidance, and options for children,

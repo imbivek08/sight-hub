@@ -28,7 +28,7 @@ export function Footer() {
                 Sight Hub
               </span>
               <span className="font-serif text-xl font-semibold text-foreground">
-                Eye Clinic
+              Optical Shop
               </span>
             </span>
           </Link>
@@ -68,12 +68,12 @@ export function Footer() {
           <address className="mt-5 space-y-3 not-italic text-sm text-muted-foreground">
             <p className="flex items-start gap-3">
               <MapPin className="mt-0.5 h-4 w-4 text-primary" aria-hidden="true" />
-              <span>New Baneshwor, Kathmandu, Nepal</span>
+              <span>Madhyapur Thimi-02 Bhaktpur, Nepal</span>
             </p>
             <p className="flex items-start gap-3">
               <Phone className="mt-0.5 h-4 w-4 text-primary" aria-hidden="true" />
               <a href="tel:+977-9841000000" className="transition hover:text-primary">
-                +977-9841000000
+                +977-9766361624
               </a>
             </p>
             <p className="flex items-start gap-3">
@@ -84,15 +84,15 @@ export function Footer() {
             </p>
           </address>
           <p className="mt-5 text-sm text-muted-foreground">
-            Sun–Fri 9AM–6PM, Sat 10AM–4PM
+            Everyday 8AM–7:30PM
           </p>
         </section>
       </div>
 
       <div className="border-t border-border/80 bg-muted/50">
         <div className="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-4 text-sm text-muted-foreground sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
-          <p>© 2026 Sight Hub Eye Clinic. All rights reserved.</p>
-          <p>Kathmandu, Nepal</p>
+          <p>© 2026 Sight Hub Optical Shop. All rights reserved.</p>
+          <p>Madhyapur Thimi-02, Nepal</p>
         </div>
       </div>
     </footer>
