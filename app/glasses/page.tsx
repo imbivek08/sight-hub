@@ -28,7 +28,7 @@ const frames = [
     category: "men" as const,
   },
   {
-    image: "/images/frame-square.svg",
+    image: "/images/sunglasses-women.jpeg",
     alt: "Square acetate eyeglass frame with modern matte styling",
     name: "North Square",
     brand: "Urban Vision",
@@ -37,7 +37,7 @@ const frames = [
     category: "women" as const,
   },
   {
-    image: "/images/frame-kids.svg",
+    image: "/images/sunglasses-women.jpeg",
     alt: "Lightweight kids eyeglass frame in bright blue",
     name: "Tiny Trail",
     brand: "Kids Choice",
@@ -46,7 +46,7 @@ const frames = [
     category: "kids" as const,
   },
   {
-    image: "/images/frame-sun.svg",
+    image: "/images/sunglasses-women.jpeg",
     alt: "Sunglasses frame with gradient lens styling",
     name: "Sol Amber",
     brand: "Sunline",
@@ -55,7 +55,7 @@ const frames = [
     category: "sunglasses" as const,
   },
   {
-    image: "/images/frame-round.svg",
+    image: "/images/sunglasses-women.jpeg",
     alt: "Classic rounded frame styled for everyday wear",
     name: "Metro Arc",
     brand: "Sight Hub House Collection",
@@ -64,7 +64,7 @@ const frames = [
     category: "men" as const,
   },
   {
-    image: "/images/frame-square.svg",
+    image: "/images/sunglasses-women.jpeg",
     alt: "Light acetate frame with soft edges and gold details",
     name: "Mira Soft",
     brand: "Urban Vision",
