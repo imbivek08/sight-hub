@@ -22,12 +22,12 @@ const contactDetails = [
   {
     icon: MapPin,
     title: "Address",
-    text: "New Baneshwor, Kathmandu, Nepal",
+    text: "Madhaypur Thimi-02, Bhaktpur, Nepal",
   },
   {
     icon: Phone,
     title: "Phone",
-    text: "+977-9841000000",
+    text: "+977-9766361624",
   },
   {
     icon: Mail,
@@ -37,7 +37,7 @@ const contactDetails = [
   {
     icon: Clock3,
     title: "Hours",
-    text: "Sun–Fri 9AM–6PM, Sat 10AM–4PM",
+    text: "Everyday 8:00AM - 7:30PM",
   },
 ];
 
@@ -78,7 +78,7 @@ export default function ContactPage() {
             <div className="overflow-hidden rounded-[2rem] border border-border bg-white shadow-sm">
               <iframe
                 title="Sight Hub Optical SHop location in Kathmandu"
-                src="https://www.google.com/maps?q=Kathmandu,Nepal&output=embed"
+                src="https://www.google.com/maps?q=Madhyapur,Nepal&output=embed"
                 loading="lazy"
                 className="h-[24rem] w-full border-0"
                 referrerPolicy="no-referrer-when-downgrade"
