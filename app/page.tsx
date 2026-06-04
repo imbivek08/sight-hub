@@ -5,11 +5,11 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title: "Sight Hub Optical Shop",
     description:
-      "Affordable eye care, expert optometrists, and same-day glasses in Kathmandu, Nepal.",
+      "Affordable eye care, expert optometrists, and same-day glasses in Bhaktpur, Nepal.",
     openGraph: {
       title: "Sight Hub Optical Shop",
       description:
-        "Affordable eye care, expert optometrists, and same-day glasses in Kathmandu, Nepal.",
+        "Affordable eye care, expert optometrists, and same-day glasses in Bhaktpur, Nepal.",
       type: "website",
     },
   };
