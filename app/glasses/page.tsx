@@ -87,11 +87,11 @@ export default function GlassesPage() {
               Affordable Glasses & Frames in Kathmandu | Sight Hub Optical Shop
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-8 text-muted-foreground sm:text-xl">
-              Explore styles for daily wear, kids, and sun protection, starting from NPR 999.
+              Explore styles for daily wear, kids, and sun protection.
             </p>
             <div className="mt-8 inline-flex items-center gap-2 rounded-full border border-primary/15 bg-white px-4 py-2 text-sm font-medium text-primary shadow-sm">
               <Sparkles className="h-4 w-4" aria-hidden="true" />
-              Starting from NPR 999
+              Different verities
             </div>
           </div>
 

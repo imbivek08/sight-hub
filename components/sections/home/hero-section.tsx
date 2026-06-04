@@ -34,7 +34,7 @@ export function HeroSection() {
             transition={{ duration: 0.7, delay: 0.1, ease: "easeOut" }}
           >
             <Sparkles className="h-4 w-4" aria-hidden="true" />
-            Kathmandu eye care with transparent pricing
+            Madhyapur eye care with transparent pricing
           </motion.div>
 
           <motion.h1
@@ -84,9 +84,9 @@ export function HeroSection() {
             transition={{ duration: 0.7, delay: 0.5, ease: "easeOut" }}
           >
             {[
-              { icon: CircleDollarSign, label: "Tests from NPR 300" },
+              { icon: CircleDollarSign, label: "Free Test" },
               { icon: ShieldCheck, label: "Trusted clinical care" },
-              { icon: Sparkles, label: "Frame styles from NPR 999" },
+              { icon: Sparkles, label: "Different verities of glasses" },
             ].map(({ icon: Icon, label }) => (
               <div
                 key={label}

@@ -168,7 +168,7 @@ export function HomePage() {
               Featured Frames
             </p>
             <h2 className="mt-3 font-serif text-4xl font-semibold tracking-tight text-foreground sm:text-[2.5rem]">
-              Hand-picked styles starting from NPR 999
+              Hand-picked styles at affordable price
             </h2>
           </div>
           <p className="max-w-xl text-sm leading-7 text-muted-foreground">
@@ -209,10 +209,10 @@ export function HomePage() {
                 Book Appointment
               </a>
               <a
-                href="tel:+977-9841000000"
+                href="tel:+977-9766361624"
                 className="inline-flex items-center justify-center rounded-button border border-white/25 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
               >
-                Call +977-9841000000
+                Call +977-9766361624
               </a>
             </div>
           </div>
